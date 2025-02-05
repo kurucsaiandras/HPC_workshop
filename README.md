@@ -11,6 +11,11 @@ pip install matplotlib
 pip install numpy
 ```
 
+### Build
+```
+make
+```
+
 ### Run
 
 ```
