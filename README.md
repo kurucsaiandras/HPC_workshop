@@ -1,6 +1,6 @@
 ### Preparation
 
-On linux (or WLS):
+On linux (or WSL):
 
 ```
 sudo apt install make
